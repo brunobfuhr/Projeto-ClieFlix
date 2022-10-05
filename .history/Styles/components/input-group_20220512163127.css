@@ -1,0 +1,14 @@
+.input-group {
+    display: flex;
+}
+
+
+.input-group .input {
+    border-bottom-right-radius: 0;
+    border-top-right-radius: 0;
+}
+
+.input-group .button {
+    border-bottom-right-radius: 0;
+    border-top-right-radius: 0;
+}
